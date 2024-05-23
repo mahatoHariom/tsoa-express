@@ -1,0 +1,1229 @@
+2024-05-18 16:13:39:1339 [33mwarn[39m: [33m🚀🦅 App listening on the http://localhost:9000[39m
+2024-05-18 16:17:06:176 [33mwarn[39m: [33m🚀🦅 App listening on the http://localhost:9000[39m
+2024-05-18 16:17:29:1729 [33mwarn[39m: [33m🚀🦅 App listening on the http://localhost:9000[39m
+2024-05-18 16:18:27:1827 [33mwarn[39m: [33m🚀🦅 App listening on the http://localhost:9000[39m
+2024-05-18 16:19:56:1956 [33mwarn[39m: [33m🚀🦅 App listening on the http://localhost:9000[39m
+2024-05-18 16:21:45:2145 [33mwarn[39m: [33m🚀🦅 App listening on the http://localhost:9000[39m
+2024-05-18 16:24:02:242 [33mwarn[39m: [33m🚀🦅 App listening on the http://localhost:9000[39m
+2024-05-18 16:24:16:2416 [33mwarn[39m: [33m🚀🦅 App listening on the http://localhost:9000[39m
+2024-05-18 16:25:24:2524 [33mwarn[39m: [33m🚀🦅 App listening on the http://localhost:9000[39m
+2024-05-18 16:36:32:3632 [33mwarn[39m: [33mServer is running on port 9000[39m
+2024-05-18 16:37:03:373 [33mwarn[39m: [33mServer is running on port 9000[39m
+2024-05-18 16:37:06:376 [33mwarn[39m: [33mServer is running on port 9000[39m
+2024-05-18 16:37:17:3717 [33mwarn[39m: [33mServer is running on port 9000[39m
+2024-05-18 16:39:23:3923 [33mwarn[39m: [33mServer is running on port 9000[39m
+2024-05-18 16:40:32:4032 [33mwarn[39m: [33mServer is running on port 9000[39m
+2024-05-18 16:40:35:4035 [33mwarn[39m: [33mServer is running on port 9000[39m
+2024-05-18 16:46:58:4658 [33mwarn[39m: [33mServer is running on port 9000[39m
+2024-05-18 16:47:02:472 [33mwarn[39m: [33mServer is running on port 9000[39m
+2024-05-18 16:47:04:474 [33mwarn[39m: [33mServer is running on port 9000[39m
+2024-05-18 16:47:06:476 [33mwarn[39m: [33mPOST /auth/login[39m
+2024-05-18 16:47:27:4727 [33mwarn[39m: [33mServer is running on port 9000[39m
+2024-05-18 16:47:40:4740 [33mwarn[39m: [33mServer is running on port 9000[39m
+2024-05-18 16:47:43:4743 [33mwarn[39m: [33mServer is running on port 9000[39m
+2024-05-18 16:56:19:5619 [33mwarn[39m: [33mServer is running on port 9000[39m
+2024-05-18 16:56:56:5656 [33mwarn[39m: [33mServer is running on port 9000[39m
+2024-05-18 16:59:35:5935 [33mwarn[39m: [33mServer is running on port 9000[39m
+2024-05-18 16:59:46:5946 [33mwarn[39m: [33mServer is running on port 9000[39m
+2024-05-18 17:00:54:054 [33mwarn[39m: [33mServer is running on port 9000[39m
+2024-05-18 17:04:56:456 [33mwarn[39m: [33mServer is running on port 9000[39m
+2024-05-18 17:13:38:1338 [33mwarn[39m: [33mServer is running on port 9000[39m
+2024-05-18 17:14:23:1423 [33mwarn[39m: [33mServer is running on port 9000[39m
+2024-05-18 17:14:58:1458 [33mwarn[39m: [33mServer is running on port 9000[39m
+2024-05-18 17:15:07:157 [33mwarn[39m: [33mServer is running on port 9000[39m
+2024-05-18 17:15:10:1510 [33mwarn[39m: [33mServer is running on port 9000[39m
+2024-05-18 17:15:19:1519 [33mwarn[39m: [33mServer is running on port 9000[39m
+2024-05-18 17:15:53:1553 [33mwarn[39m: [33mServer is running on port 9000[39m
+2024-05-18 17:27:15:2715 [33mwarn[39m: [33mServer is running on port 9000[39m
+2024-05-18 17:27:57:2757 [33mwarn[39m: [33mServer is running on port 9000[39m
+2024-05-18 17:28:27:2827 [33mwarn[39m: [33mServer is running on port 9000[39m
+2024-05-18 17:28:46:2846 [33mwarn[39m: [33mServer is running on port 9000[39m
+2024-05-18 17:28:51:2851 [33mwarn[39m: [33mServer is running on port 9000[39m
+2024-05-18 17:31:37:3137 [32minfo[39m: Server is running on port 9000
+2024-05-18 17:35:30:3530 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-18 17:35:36:3536 [35mhttp[39m: [35m::1 POST /auth/login 200 964 - 74.493 ms[39m
+[35m[39m
+2024-05-18 17:37:56:3756 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-18 17:40:15:4015 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-18 17:40:20:4020 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-18 17:40:23:4023 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-18 17:40:26:4026 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-18 17:40:28:4028 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-18 17:40:42:4042 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-18 17:40:52:4052 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-18 18:56:53:5653 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-18 18:58:16:5816 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-18 18:58:50:5850 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-18 18:59:36:5936 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-18 18:59:44:5944 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-18 18:59:46:5946 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-18 19:00:01:01 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-18 19:00:04:04 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-18 19:05:03:53 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-18 19:05:53:553 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-18 19:05:58:558 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-18 19:06:02:62 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-18 19:06:06:66 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-18 19:06:08:68 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-18 19:06:11:611 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-18 19:06:14:614 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-18 19:06:17:617 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-18 19:06:18:618 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-18 19:06:22:622 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-18 19:06:26:626 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-18 19:06:30:630 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-18 19:06:36:636 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-18 19:06:56:656 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-18 19:06:58:658 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-18 19:07:15:715 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-18 19:08:34:834 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-18 19:08:48:848 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-18 19:08:58:858 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-18 19:09:00:90 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-18 19:09:04:94 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-18 19:09:06:96 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-18 19:09:09:99 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-18 19:09:19:919 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-18 19:11:09:119 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-18 19:15:24:1524 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-18 20:01:08:18 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-18 20:01:13:113 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-18 20:01:18:118 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-18 20:01:22:122 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-18 20:01:31:131 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-18 20:02:15:215 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-18 20:02:58:258 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-18 20:03:00:30 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-18 20:03:02:32 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-18 20:03:10:310 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-18 20:03:17:317 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-18 20:04:16:416 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-18 20:04:47:447 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-18 20:04:49:449 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-18 20:04:50:450 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-18 20:04:54:454 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-18 20:05:04:54 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-18 20:05:24:524 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-18 20:05:27:527 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-18 20:05:32:532 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-18 20:05:36:536 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-18 20:05:52:552 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-18 20:05:59:559 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-18 20:06:29:629 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-18 20:06:34:634 [35mhttp[39m: [35m::1 GET /docs/ 304 - - 9.181 ms[39m
+[35m[39m
+2024-05-18 20:06:34:634 [35mhttp[39m: [35m::1 GET /docs/swagger-ui.css 304 - - 2.398 ms[39m
+[35m[39m
+2024-05-18 20:06:34:634 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-standalone-preset.js 304 - - 2.339 ms[39m
+[35m[39m
+2024-05-18 20:06:34:634 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-init.js 200 15086 - 0.556 ms[39m
+[35m[39m
+2024-05-18 20:06:34:634 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-bundle.js 200 1456926 - 6.691 ms[39m
+[35m[39m
+2024-05-18 20:06:49:649 [35mhttp[39m: [35m::1 POST /auth/register 200 18 - 18.680 ms[39m
+[35m[39m
+2024-05-18 20:07:10:710 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-18 20:07:10:710 [35mhttp[39m: [35m::1 POST /auth/register 200 18 - 7.475 ms[39m
+[35m[39m
+2024-05-18 20:07:11:711 [35mhttp[39m: [35m::1 POST /auth/register 200 18 - 2.418 ms[39m
+[35m[39m
+2024-05-18 20:07:45:745 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-18 20:07:56:756 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-18 20:07:58:758 [35mhttp[39m: [35m::1 POST /auth/register 200 18 - 15.360 ms[39m
+[35m[39m
+2024-05-18 20:07:59:759 [35mhttp[39m: [35m::1 POST /auth/register 200 18 - 2.319 ms[39m
+[35m[39m
+2024-05-18 20:08:00:80 [35mhttp[39m: [35m::1 POST /auth/register 200 18 - 1.390 ms[39m
+[35m[39m
+2024-05-18 20:08:14:814 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-18 20:10:00:100 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-18 20:10:18:1018 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-18 20:10:21:1021 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-18 20:10:30:1030 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-18 20:10:36:1036 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-18 20:21:15:2115 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-18 20:21:17:2117 [35mhttp[39m: [35m::1 POST /auth/register 200 147 - 537.591 ms[39m
+[35m[39m
+2024-05-18 20:21:20:2120 [35mhttp[39m: [35m::1 POST /auth/register 409 504 - 9.101 ms[39m
+[35m[39m
+2024-05-18 20:22:51:2251 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-18 20:22:55:2255 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-18 20:24:00:240 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-18 20:24:06:246 [35mhttp[39m: [35m::1 POST /auth/register 409 504 - 41.076 ms[39m
+[35m[39m
+2024-05-18 20:24:07:247 [35mhttp[39m: [35m::1 POST /auth/register 409 504 - 4.434 ms[39m
+[35m[39m
+2024-05-19 05:50:35:5035 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 05:50:39:5039 [35mhttp[39m: [35m::1 GET /docs/ 304 - - 5.949 ms[39m
+[35m[39m
+2024-05-19 05:50:39:5039 [35mhttp[39m: [35m::1 GET /docs/swagger-ui.css 304 - - 2.510 ms[39m
+[35m[39m
+2024-05-19 05:50:39:5039 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-standalone-preset.js 304 - - 1.873 ms[39m
+[35m[39m
+2024-05-19 05:50:39:5039 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-init.js 200 17346 - 0.509 ms[39m
+[35m[39m
+2024-05-19 05:50:39:5039 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-bundle.js 200 1456926 - 6.162 ms[39m
+[35m[39m
+2024-05-19 05:50:57:5057 [35mhttp[39m: [35m::1 POST /auth/register 200 148 - 737.592 ms[39m
+[35m[39m
+2024-05-19 05:51:00:510 [35mhttp[39m: [35m::1 POST /auth/register 409 504 - 7.787 ms[39m
+[35m[39m
+2024-05-19 05:53:13:5313 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 05:53:14:5314 [35mhttp[39m: [35m::1 POST /auth/register 409 504 - 33.874 ms[39m
+[35m[39m
+2024-05-19 05:53:33:5333 [35mhttp[39m: [35m::1 POST /auth/register 409 504 - 5.922 ms[39m
+[35m[39m
+2024-05-19 05:53:36:5336 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 05:53:37:5337 [35mhttp[39m: [35m::1 POST /auth/register 409 504 - 36.256 ms[39m
+[35m[39m
+2024-05-19 05:54:00:540 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 05:54:02:542 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 05:54:07:547 [35mhttp[39m: [35m::1 POST /auth/register 409 504 - 29.871 ms[39m
+[35m[39m
+2024-05-19 05:54:22:5422 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 05:54:25:5425 [35mhttp[39m: [35m::1 POST /auth/register 409 504 - 35.535 ms[39m
+[35m[39m
+2024-05-19 05:54:40:5440 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 05:54:45:5445 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 05:55:52:5552 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 05:55:52:5552 [35mhttp[39m: [35m::1 POST /auth/register 409 504 - 59.586 ms[39m
+[35m[39m
+2024-05-19 06:03:42:342 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 06:03:46:346 [35mhttp[39m: [35m::1 POST /auth/register 500 504 - 53.846 ms[39m
+[35m[39m
+2024-05-19 06:11:16:1116 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 06:11:21:1121 [35mhttp[39m: [35m::1 POST /auth/register 409 504 - 46.571 ms[39m
+[35m[39m
+2024-05-19 06:11:22:1122 [35mhttp[39m: [35m::1 POST /auth/register 409 504 - 4.671 ms[39m
+[35m[39m
+2024-05-19 06:13:06:136 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 06:13:18:1318 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 06:13:27:1327 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 06:13:30:1330 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 06:13:35:1335 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 06:13:39:1339 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 06:13:58:1358 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 06:17:00:170 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 06:17:05:175 [35mhttp[39m: [35m::1 POST /auth/register 409 504 - 64.608 ms[39m
+[35m[39m
+2024-05-19 06:17:06:176 [35mhttp[39m: [35m::1 POST /auth/register 409 504 - 4.849 ms[39m
+[35m[39m
+2024-05-19 06:17:36:1736 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 06:17:39:1739 [35mhttp[39m: [35m::1 POST /auth/register 409 504 - 39.864 ms[39m
+[35m[39m
+2024-05-19 06:37:38:3738 [35mhttp[39m: [35m::1 POST /auth/register 409 43 - 45.927 ms[39m
+[35m[39m
+2024-05-19 06:45:08:458 [35mhttp[39m: [35m::1 POST /auth/register 409 43 - 46.104 ms[39m
+[35m[39m
+2024-05-19 06:47:34:4734 [35mhttp[39m: [35m::1 POST /auth/register 409 43 - 55.505 ms[39m
+[35m[39m
+2024-05-19 07:13:24:1324 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 08:04:50:450 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 08:05:06:56 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 08:05:07:57 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 08:05:25:525 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 08:05:37:537 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 08:05:44:544 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 08:05:47:547 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 08:05:48:548 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 08:05:54:554 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 08:05:56:556 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 08:06:24:624 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 08:06:31:631 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 08:09:12:912 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 08:09:26:926 [35mhttp[39m: [35m::1 GET /docs/ 304 - - 8.625 ms[39m
+[35m[39m
+2024-05-19 08:09:26:926 [35mhttp[39m: [35m::1 GET /docs/swagger-ui.css 304 - - 2.593 ms[39m
+[35m[39m
+2024-05-19 08:09:26:926 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-bundle.js 304 - - 2.390 ms[39m
+[35m[39m
+2024-05-19 08:09:26:926 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-standalone-preset.js 304 - - 0.498 ms[39m
+[35m[39m
+2024-05-19 08:09:26:926 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-init.js 200 10172 - 1.334 ms[39m
+[35m[39m
+2024-05-19 08:09:26:926 [35mhttp[39m: [35m::1 GET /docs/favicon-32x32.png 304 - - 1.346 ms[39m
+[35m[39m
+2024-05-19 08:09:54:954 [35mhttp[39m: [35m::1 POST /auth/register 200 159 - 82.002 ms[39m
+[35m[39m
+2024-05-19 08:10:25:1025 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 08:10:28:1028 [35mhttp[39m: [35m::1 POST /auth/login 200 986 - 53.279 ms[39m
+[35m[39m
+2024-05-19 08:11:16:1116 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 08:11:42:1142 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 08:12:01:121 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 08:14:48:1448 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 08:15:43:1543 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 08:15:45:1545 [35mhttp[39m: [35m::1 GET /docs/ 304 - - 6.288 ms[39m
+[35m[39m
+2024-05-19 08:15:45:1545 [35mhttp[39m: [35m::1 GET /docs/swagger-ui.css 304 - - 2.625 ms[39m
+[35m[39m
+2024-05-19 08:15:45:1545 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-bundle.js 304 - - 2.583 ms[39m
+[35m[39m
+2024-05-19 08:15:45:1545 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-init.js 304 - - 0.282 ms[39m
+[35m[39m
+2024-05-19 08:15:45:1545 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-standalone-preset.js 304 - - 2.549 ms[39m
+[35m[39m
+2024-05-19 08:15:45:1545 [35mhttp[39m: [35m::1 GET /docs/favicon-32x32.png 304 - - 0.860 ms[39m
+[35m[39m
+2024-05-19 08:15:53:1553 [35mhttp[39m: [35m::1 POST /auth/login 200 986 - 82.512 ms[39m
+[35m[39m
+2024-05-19 08:19:59:1959 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 08:21:30:2130 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 08:22:53:2253 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 08:23:03:233 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 08:24:03:243 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 08:24:05:245 [35mhttp[39m: [35m::ffff:127.0.0.1 GET /docs/ 200 3106 - 5.804 ms[39m
+[35m[39m
+2024-05-19 08:24:10:2410 [35mhttp[39m: [35m::ffff:127.0.0.1 GET /docs 301 175 - 2.229 ms[39m
+[35m[39m
+2024-05-19 08:24:10:2410 [35mhttp[39m: [35m::ffff:127.0.0.1 GET /docs/ 200 3106 - 1.497 ms[39m
+[35m[39m
+2024-05-19 08:24:10:2410 [35mhttp[39m: [35m::ffff:127.0.0.1 GET /docs/swagger-ui-init.js 200 10198 - 0.367 ms[39m
+[35m[39m
+2024-05-19 08:24:10:2410 [35mhttp[39m: [35m::ffff:127.0.0.1 GET /docs/swagger-ui.css 200 152071 - 5.223 ms[39m
+[35m[39m
+2024-05-19 08:24:10:2410 [35mhttp[39m: [35m::ffff:127.0.0.1 GET /docs/swagger-ui-standalone-preset.js 200 230280 - 6.699 ms[39m
+[35m[39m
+2024-05-19 08:24:10:2410 [35mhttp[39m: [35m::ffff:127.0.0.1 GET /docs/swagger-ui-bundle.js 200 1456926 - 5.663 ms[39m
+[35m[39m
+2024-05-19 08:24:10:2410 [35mhttp[39m: [35m::ffff:127.0.0.1 GET /docs/favicon-32x32.png 200 628 - 1.959 ms[39m
+[35m[39m
+2024-05-19 08:24:24:2424 [35mhttp[39m: [35m::ffff:127.0.0.1 POST /auth/login 200 986 - 92.997 ms[39m
+[35m[39m
+2024-05-19 08:26:04:264 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 08:28:00:280 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 08:28:10:2810 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 08:28:18:2818 [35mhttp[39m: [35m::1 POST /auth/login 200 986 - 69.482 ms[39m
+[35m[39m
+2024-05-19 08:28:30:2830 [35mhttp[39m: [35m::ffff:127.0.0.1 GET /docs/ 200 3106 - 2.939 ms[39m
+[35m[39m
+2024-05-19 08:28:30:2830 [35mhttp[39m: [35m::ffff:127.0.0.1 GET /docs/swagger-ui-init.js 200 10268 - 0.483 ms[39m
+[35m[39m
+2024-05-19 08:28:30:2830 [35mhttp[39m: [35m::ffff:127.0.0.1 GET /docs/swagger-ui.css 200 152071 - 7.043 ms[39m
+[35m[39m
+2024-05-19 08:28:30:2830 [35mhttp[39m: [35m::ffff:127.0.0.1 GET /docs/swagger-ui-standalone-preset.js 200 230280 - 6.500 ms[39m
+[35m[39m
+2024-05-19 08:28:30:2830 [35mhttp[39m: [35m::ffff:127.0.0.1 GET /docs/swagger-ui-bundle.js 200 1456926 - 6.248 ms[39m
+[35m[39m
+2024-05-19 08:28:44:2844 [35mhttp[39m: [35m::1 POST /auth/refresh 401 26 - 12.217 ms[39m
+[35m[39m
+2024-05-19 08:29:09:299 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 08:29:12:2912 [35mhttp[39m: [35m::1 POST /auth/refresh 401 26 - 23.987 ms[39m
+[35m[39m
+2024-05-19 08:29:26:2926 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 08:29:30:2930 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 08:29:34:2934 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 08:29:37:2937 [35mhttp[39m: [35m::1 POST /auth/refresh 401 26 - 28.797 ms[39m
+[35m[39m
+2024-05-19 08:31:32:3132 [35mhttp[39m: [35m::ffff:127.0.0.1 POST /auth/refresh 401 26 - 4.298 ms[39m
+[35m[39m
+2024-05-19 08:32:00:320 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 08:32:07:327 [35mhttp[39m: [35m::ffff:127.0.0.1 POST /auth/refresh 401 26 - 36.793 ms[39m
+[35m[39m
+2024-05-19 08:32:41:3241 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 08:34:44:3444 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 08:34:48:3448 [35mhttp[39m: [35m::1 POST /auth/refresh 401 26 - 19.487 ms[39m
+[35m[39m
+2024-05-19 08:35:20:3520 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 08:36:53:3653 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 08:37:12:3712 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 08:37:15:3715 [35mhttp[39m: [35m::1 POST /auth/refresh 401 26 - 23.947 ms[39m
+[35m[39m
+2024-05-19 08:43:06:436 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 08:43:35:4335 [35mhttp[39m: [35m::1 POST /auth/refresh 500 35 - 17.961 ms[39m
+[35m[39m
+2024-05-19 08:43:36:4336 [35mhttp[39m: [35m::1 POST /auth/refresh 500 35 - 2.226 ms[39m
+[35m[39m
+2024-05-19 08:43:49:4349 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 08:43:55:4355 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 08:43:57:4357 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 08:44:01:441 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 08:44:10:4410 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 08:44:12:4412 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 08:44:13:4413 [35mhttp[39m: [35m::1 POST /auth/refresh 500 35 - 20.803 ms[39m
+[35m[39m
+2024-05-19 08:46:02:462 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 08:46:14:4614 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 08:46:17:4617 [35mhttp[39m: [35m::ffff:127.0.0.1 POST /auth/refresh 500 35 - 33.336 ms[39m
+[35m[39m
+2024-05-19 08:46:42:4642 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 08:46:43:4643 [35mhttp[39m: [35m::ffff:127.0.0.1 POST /auth/refresh 500 35 - 22.214 ms[39m
+[35m[39m
+2024-05-19 08:48:39:4839 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 08:48:41:4841 [35mhttp[39m: [35m::ffff:127.0.0.1 POST /auth/refresh 500 35 - 39.665 ms[39m
+[35m[39m
+2024-05-19 08:48:42:4842 [35mhttp[39m: [35m::ffff:127.0.0.1 POST /auth/refresh 500 35 - 2.663 ms[39m
+[35m[39m
+2024-05-19 08:50:00:500 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 08:50:00:500 [35mhttp[39m: [35m::ffff:127.0.0.1 POST /auth/refresh 500 35 - 39.722 ms[39m
+[35m[39m
+2024-05-19 08:50:01:501 [35mhttp[39m: [35m::ffff:127.0.0.1 POST /auth/refresh 500 35 - 2.669 ms[39m
+[35m[39m
+2024-05-19 08:50:01:501 [35mhttp[39m: [35m::ffff:127.0.0.1 POST /auth/refresh 500 35 - 1.501 ms[39m
+[35m[39m
+2024-05-19 08:50:02:502 [35mhttp[39m: [35m::ffff:127.0.0.1 POST /auth/refresh 500 35 - 1.396 ms[39m
+[35m[39m
+2024-05-19 08:50:02:502 [35mhttp[39m: [35m::ffff:127.0.0.1 POST /auth/refresh 500 35 - 1.186 ms[39m
+[35m[39m
+2024-05-19 08:50:02:502 [35mhttp[39m: [35m::ffff:127.0.0.1 POST /auth/refresh 500 35 - 1.130 ms[39m
+[35m[39m
+2024-05-19 09:01:09:19 [35mhttp[39m: [35m::ffff:127.0.0.1 GET /docs/ 304 - - 5.389 ms[39m
+[35m[39m
+2024-05-19 09:01:09:19 [35mhttp[39m: [35m::ffff:127.0.0.1 GET /docs/swagger-ui-init.js 200 10228 - 1.097 ms[39m
+[35m[39m
+2024-05-19 09:01:09:19 [35mhttp[39m: [35m::ffff:127.0.0.1 GET /docs/swagger-ui-bundle.js 304 - - 2.087 ms[39m
+[35m[39m
+2024-05-19 09:01:09:19 [35mhttp[39m: [35m::ffff:127.0.0.1 GET /docs/swagger-ui.css 200 152071 - 11.397 ms[39m
+[35m[39m
+2024-05-19 09:01:09:19 [35mhttp[39m: [35m::ffff:127.0.0.1 GET /docs/swagger-ui-standalone-preset.js 200 230280 - 9.999 ms[39m
+[35m[39m
+2024-05-19 09:01:09:19 [35mhttp[39m: [35m::ffff:127.0.0.1 GET /docs/favicon-32x32.png - - - - ms[39m
+[35m[39m
+2024-05-19 09:01:21:121 [35mhttp[39m: [35m::ffff:127.0.0.1 POST /auth/login 200 986 - 1233.174 ms[39m
+[35m[39m
+2024-05-19 09:01:52:152 [35mhttp[39m: [35m::ffff:127.0.0.1 POST /auth/refresh 500 35 - 1.616 ms[39m
+[35m[39m
+2024-05-19 09:01:53:153 [35mhttp[39m: [35m::ffff:127.0.0.1 POST /auth/refresh 500 35 - 2.580 ms[39m
+[35m[39m
+2024-05-19 09:02:15:215 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 09:02:17:217 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 09:06:07:67 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 09:06:21:621 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 09:06:32:632 [35mhttp[39m: [35m::1 POST /auth/refresh 500 35 - 23.078 ms[39m
+[35m[39m
+2024-05-19 09:07:20:720 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 09:07:30:730 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 09:07:32:732 [35mhttp[39m: [35m::1 POST /auth/refresh 500 35 - 19.644 ms[39m
+[35m[39m
+2024-05-19 09:07:33:733 [35mhttp[39m: [35m::1 POST /auth/refresh 500 35 - 4.117 ms[39m
+[35m[39m
+2024-05-19 09:07:40:740 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 09:09:04:94 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 09:10:12:1012 [35mhttp[39m: [35m::ffff:127.0.0.1 POST /auth/refresh 200 44 - 40.980 ms[39m
+[35m[39m
+2024-05-19 17:06:42:642 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 17:07:04:74 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 17:07:06:76 [35mhttp[39m: [35m::1 GET /docs/ 304 - - 9.653 ms[39m
+[35m[39m
+2024-05-19 17:07:06:76 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-init.js 200 10225 - 0.306 ms[39m
+[35m[39m
+2024-05-19 17:07:06:76 [35mhttp[39m: [35m::1 GET /docs/swagger-ui.css 200 152071 - 9.086 ms[39m
+[35m[39m
+2024-05-19 17:07:06:76 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-standalone-preset.js 200 230280 - 8.755 ms[39m
+[35m[39m
+2024-05-19 17:07:06:76 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-bundle.js 200 1456926 - 5.684 ms[39m
+[35m[39m
+2024-05-19 17:07:26:726 [35mhttp[39m: [35m::1 POST /auth/register 200 145 - 1535.186 ms[39m
+[35m[39m
+2024-05-19 17:07:37:737 [35mhttp[39m: [35m::1 POST /auth/register 409 43 - 14.078 ms[39m
+[35m[39m
+2024-05-19 17:07:46:746 [35mhttp[39m: [35m::1 POST /auth/login 200 948 - 10.317 ms[39m
+[35m[39m
+2024-05-19 17:09:00:90 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 17:10:07:107 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 17:10:13:1013 [35mhttp[39m: [35m::1 POST /auth/refresh 500 35 - 17.941 ms[39m
+[35m[39m
+2024-05-19 17:10:45:1045 [35mhttp[39m: [35m::1 POST /auth/refresh 500 35 - 1.992 ms[39m
+[35m[39m
+2024-05-19 17:11:08:118 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 17:11:14:1114 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 17:11:15:1115 [35mhttp[39m: [35m::1 POST /auth/refresh 401 26 - 23.331 ms[39m
+[35m[39m
+2024-05-19 17:11:32:1132 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 17:11:34:1134 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 17:11:40:1140 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 17:11:46:1146 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 17:11:51:1151 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 17:12:05:125 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 17:12:42:1242 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 17:12:49:1249 [35mhttp[39m: [35m::1 POST /auth/refresh 401 26 - 23.480 ms[39m
+[35m[39m
+2024-05-19 17:14:27:1427 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 17:17:18:1718 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 17:17:31:1731 [35mhttp[39m: [35m::1 POST /auth/refresh 401 26 - 21.952 ms[39m
+[35m[39m
+2024-05-19 18:11:05:115 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 18:14:13:1413 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 18:14:26:1426 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 18:14:32:1432 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 18:14:39:1439 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 18:14:44:1444 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 18:15:10:1510 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 18:15:17:1517 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 18:15:20:1520 [35mhttp[39m: [35m::1 GET /docs/ 200 3106 - 2.667 ms[39m
+[35m[39m
+2024-05-19 18:15:20:1520 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-init.js 200 10162 - 0.158 ms[39m
+[35m[39m
+2024-05-19 18:15:20:1520 [35mhttp[39m: [35m::1 GET /docs/swagger-ui.css 200 152071 - 3.432 ms[39m
+[35m[39m
+2024-05-19 18:15:20:1520 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-standalone-preset.js 200 230280 - 2.757 ms[39m
+[35m[39m
+2024-05-19 18:15:20:1520 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-bundle.js 200 1456926 - 2.152 ms[39m
+[35m[39m
+2024-05-19 18:15:20:1520 [35mhttp[39m: [35m::1 GET /docs/favicon-32x32.png 200 628 - 1.613 ms[39m
+[35m[39m
+2024-05-19 18:15:23:1523 [35mhttp[39m: [35m::1 GET /docs/favicon-32x32.png 304 - - 1.431 ms[39m
+[35m[39m
+2024-05-19 18:15:26:1526 [35mhttp[39m: [35m::1 POST /auth/refresh 500 35 - 26.553 ms[39m
+[35m[39m
+2024-05-19 18:16:12:1612 [35mhttp[39m: [35m::1 POST /auth/refresh 500 35 - 3.566 ms[39m
+[35m[39m
+2024-05-19 18:16:41:1641 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 18:16:54:1654 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 18:16:56:1656 [35mhttp[39m: [35m::1 POST /auth/refresh 500 35 - 25.252 ms[39m
+[35m[39m
+2024-05-19 18:17:29:1729 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 18:17:30:1730 [35mhttp[39m: [35m::1 POST /auth/refresh 200 44 - 21.586 ms[39m
+[35m[39m
+2024-05-19 18:17:31:1731 [35mhttp[39m: [35m::1 POST /auth/refresh 200 44 - 4.331 ms[39m
+[35m[39m
+2024-05-19 18:19:35:1935 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 18:19:40:1940 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 18:20:29:2029 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 18:20:43:2043 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 18:20:49:2049 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 18:20:51:2051 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 18:21:00:210 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 18:21:06:216 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 18:21:07:217 [35mhttp[39m: [35m::1 POST /auth/refresh 401 26 - 21.178 ms[39m
+[35m[39m
+2024-05-19 18:21:17:2117 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 18:21:20:2120 [35mhttp[39m: [35m::1 POST /auth/refresh 200 44 - 26.449 ms[39m
+[35m[39m
+2024-05-19 18:21:33:2133 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 18:21:34:2134 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 18:21:37:2137 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 18:21:39:2139 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 19:47:25:4725 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 20:06:46:646 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 20:07:41:741 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 20:08:00:80 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 20:08:55:855 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 20:10:35:1035 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 20:10:39:1039 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 20:10:42:1042 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 20:10:46:1046 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 20:10:48:1048 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 20:11:55:1155 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 20:12:17:1217 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 20:12:30:1230 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 20:12:40:1240 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 20:12:44:1244 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 20:12:47:1247 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 20:12:56:1256 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 20:12:59:1259 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 20:13:02:132 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 20:14:21:1421 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 20:14:44:1444 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 20:14:50:1450 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 20:15:05:155 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 20:15:27:1527 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 20:15:45:1545 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 20:15:49:1549 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 20:16:00:160 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 20:16:08:168 [35mhttp[39m: [35m::1 GET /docs/ 304 - - 4.870 ms[39m
+[35m[39m
+2024-05-19 20:16:08:168 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-init.js 200 10340 - 0.454 ms[39m
+[35m[39m
+2024-05-19 20:16:08:168 [35mhttp[39m: [35m::1 GET /docs/swagger-ui.css 200 152071 - 7.000 ms[39m
+[35m[39m
+2024-05-19 20:16:08:168 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-standalone-preset.js 200 230280 - 4.799 ms[39m
+[35m[39m
+2024-05-19 20:16:08:168 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-bundle.js 200 1456926 - 8.534 ms[39m
+[35m[39m
+2024-05-19 20:16:33:1633 [35mhttp[39m: [35m::1 POST /auth/register 200 155 - 324.965 ms[39m
+[35m[39m
+2024-05-19 20:16:42:1642 [35mhttp[39m: [35m::1 POST /auth/login 200 974 - 11.790 ms[39m
+[35m[39m
+2024-05-19 20:16:52:1652 [35mhttp[39m: [35m::1 POST /auth/refresh 500 35 - 4.440 ms[39m
+[35m[39m
+2024-05-19 20:17:10:1710 [35mhttp[39m: [35m::1 POST /auth/refresh 500 35 - 7.762 ms[39m
+[35m[39m
+2024-05-19 20:21:06:216 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 20:21:16:2116 [35mhttp[39m: [35m::1 POST /auth/refresh 401 26 - 25.122 ms[39m
+[35m[39m
+2024-05-19 20:21:40:2140 [35mhttp[39m: [35m::1 GET /docs/ 304 - - 3.824 ms[39m
+[35m[39m
+2024-05-19 20:21:40:2140 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-init.js 200 10403 - 0.483 ms[39m
+[35m[39m
+2024-05-19 20:21:40:2140 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-bundle.js 304 - - 1.243 ms[39m
+[35m[39m
+2024-05-19 20:21:40:2140 [35mhttp[39m: [35m::1 GET /docs/swagger-ui.css 304 - - 0.840 ms[39m
+[35m[39m
+2024-05-19 20:21:40:2140 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-standalone-preset.js 304 - - 1.145 ms[39m
+[35m[39m
+2024-05-19 20:21:40:2140 [35mhttp[39m: [35m::1 GET /docs/favicon-32x32.png 200 628 - 2.072 ms[39m
+[35m[39m
+2024-05-19 20:21:53:2153 [35mhttp[39m: [35m::1 GET /docs/ 304 - - 0.831 ms[39m
+[35m[39m
+2024-05-19 20:21:53:2153 [35mhttp[39m: [35m::1 GET /docs/swagger-ui.css 304 - - 2.211 ms[39m
+[35m[39m
+2024-05-19 20:21:53:2153 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-bundle.js 304 - - 2.414 ms[39m
+[35m[39m
+2024-05-19 20:21:53:2153 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-standalone-preset.js 304 - - 0.771 ms[39m
+[35m[39m
+2024-05-19 20:21:53:2153 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-init.js 304 - - 0.422 ms[39m
+[35m[39m
+2024-05-19 20:22:21:2221 [35mhttp[39m: [35m::ffff:127.0.0.1 GET /docs/ 304 - - 2.480 ms[39m
+[35m[39m
+2024-05-19 20:22:21:2221 [35mhttp[39m: [35m::ffff:127.0.0.1 GET /docs/swagger-ui-init.js 200 10403 - 0.313 ms[39m
+[35m[39m
+2024-05-19 20:22:21:2221 [35mhttp[39m: [35m::ffff:127.0.0.1 GET /docs/swagger-ui.css 200 152071 - 2.455 ms[39m
+[35m[39m
+2024-05-19 20:22:21:2221 [35mhttp[39m: [35m::ffff:127.0.0.1 GET /docs/swagger-ui-standalone-preset.js 200 230280 - 10.190 ms[39m
+[35m[39m
+2024-05-19 20:22:21:2221 [35mhttp[39m: [35m::ffff:127.0.0.1 GET /docs/swagger-ui-bundle.js 200 1456926 - 3.445 ms[39m
+[35m[39m
+2024-05-19 20:23:16:2316 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 20:23:23:2323 [35mhttp[39m: [35m::1 GET /docs/ 304 - - 7.676 ms[39m
+[35m[39m
+2024-05-19 20:23:23:2323 [35mhttp[39m: [35m::1 GET /docs/swagger-ui.css 304 - - 2.492 ms[39m
+[35m[39m
+2024-05-19 20:23:23:2323 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-bundle.js 304 - - 2.498 ms[39m
+[35m[39m
+2024-05-19 20:23:23:2323 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-standalone-preset.js 304 - - 0.323 ms[39m
+[35m[39m
+2024-05-19 20:23:23:2323 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-init.js 304 - - 0.283 ms[39m
+[35m[39m
+2024-05-19 20:23:23:2323 [35mhttp[39m: [35m::1 GET /docs/favicon-32x32.png 304 - - 0.417 ms[39m
+[35m[39m
+2024-05-19 20:23:32:2332 [35mhttp[39m: [35m::1 GET /docs/swagger-ui.css 304 - - 0.646 ms[39m
+[35m[39m
+2024-05-19 20:23:32:2332 [35mhttp[39m: [35m::1 GET /docs/swagger-ui.css.map 200 262651 - 3.491 ms[39m
+[35m[39m
+2024-05-19 20:23:44:2344 [35mhttp[39m: [35m::1 GET /docs/ 200 3106 - 3.199 ms[39m
+[35m[39m
+2024-05-19 20:23:44:2344 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-init.js 200 10403 - 0.534 ms[39m
+[35m[39m
+2024-05-19 20:23:44:2344 [35mhttp[39m: [35m::1 GET /docs/swagger-ui.css 200 152071 - 3.990 ms[39m
+[35m[39m
+2024-05-19 20:23:44:2344 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-standalone-preset.js 200 230280 - 11.414 ms[39m
+[35m[39m
+2024-05-19 20:23:44:2344 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-bundle.js 200 1456926 - 2.446 ms[39m
+[35m[39m
+2024-05-19 20:23:44:2344 [35mhttp[39m: [35m::1 GET /docs/swagger-ui.css.map 200 262651 - 0.675 ms[39m
+[35m[39m
+2024-05-19 20:23:44:2344 [35mhttp[39m: [35m::1 GET /docs/favicon-32x32.png 200 628 - 1.470 ms[39m
+[35m[39m
+2024-05-19 20:25:03:253 [35mhttp[39m: [35m::1 GET /docs/ 304 - - 2.089 ms[39m
+[35m[39m
+2024-05-19 20:25:03:253 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-bundle.js 304 - - 0.981 ms[39m
+[35m[39m
+2024-05-19 20:25:03:253 [35mhttp[39m: [35m::1 GET /docs/swagger-ui.css 304 - - 1.321 ms[39m
+[35m[39m
+2024-05-19 20:25:03:253 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-standalone-preset.js 304 - - 0.405 ms[39m
+[35m[39m
+2024-05-19 20:25:03:253 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-init.js 304 - - 0.654 ms[39m
+[35m[39m
+2024-05-19 20:25:03:253 [35mhttp[39m: [35m::1 GET /docs/favicon-32x32.png 304 - - 0.566 ms[39m
+[35m[39m
+2024-05-19 20:25:08:258 [35mhttp[39m: [35m::1 GET /docs/ 304 - - 0.809 ms[39m
+[35m[39m
+2024-05-19 20:25:08:258 [35mhttp[39m: [35m::1 GET /docs/swagger-ui.css 304 - - 1.049 ms[39m
+[35m[39m
+2024-05-19 20:25:08:258 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-bundle.js 304 - - 1.205 ms[39m
+[35m[39m
+2024-05-19 20:25:08:258 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-init.js 304 - - 0.529 ms[39m
+[35m[39m
+2024-05-19 20:25:08:258 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-standalone-preset.js 304 - - 0.352 ms[39m
+[35m[39m
+2024-05-19 20:25:08:258 [35mhttp[39m: [35m::1 GET /docs/favicon-32x32.png 304 - - 0.216 ms[39m
+[35m[39m
+2024-05-19 20:25:17:2517 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 20:25:20:2520 [35mhttp[39m: [35m::1 GET /docs/ 304 - - 7.877 ms[39m
+[35m[39m
+2024-05-19 20:25:20:2520 [35mhttp[39m: [35m::1 GET /docs/swagger-ui.css 304 - - 2.493 ms[39m
+[35m[39m
+2024-05-19 20:25:20:2520 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-standalone-preset.js 304 - - 2.350 ms[39m
+[35m[39m
+2024-05-19 20:25:20:2520 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-init.js 304 - - 0.268 ms[39m
+[35m[39m
+2024-05-19 20:25:20:2520 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-bundle.js 304 - - 2.056 ms[39m
+[35m[39m
+2024-05-19 20:25:20:2520 [35mhttp[39m: [35m::1 GET /docs/favicon-32x32.png 304 - - 0.421 ms[39m
+[35m[39m
+2024-05-19 20:27:17:2717 [35mhttp[39m: [35m::1 GET /docs/ 304 - - 3.672 ms[39m
+[35m[39m
+2024-05-19 20:27:17:2717 [35mhttp[39m: [35m::1 GET /docs/swagger-ui.css 304 - - 3.105 ms[39m
+[35m[39m
+2024-05-19 20:27:17:2717 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-standalone-preset.js 304 - - 3.556 ms[39m
+[35m[39m
+2024-05-19 20:27:17:2717 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-bundle.js 304 - - 0.691 ms[39m
+[35m[39m
+2024-05-19 20:27:17:2717 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-init.js 304 - - 0.231 ms[39m
+[35m[39m
+2024-05-19 20:27:17:2717 [35mhttp[39m: [35m::1 GET /docs/favicon-32x32.png 304 - - 0.634 ms[39m
+[35m[39m
+2024-05-19 20:28:07:287 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 20:28:08:288 [35mhttp[39m: [35m::1 GET /docs/ 304 - - 4.829 ms[39m
+[35m[39m
+2024-05-19 20:28:08:288 [35mhttp[39m: [35m::1 GET /docs/swagger-ui.css 304 - - 2.588 ms[39m
+[35m[39m
+2024-05-19 20:28:08:288 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-standalone-preset.js 304 - - 2.577 ms[39m
+[35m[39m
+2024-05-19 20:28:08:288 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-init.js 304 - - 0.369 ms[39m
+[35m[39m
+2024-05-19 20:28:08:288 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-bundle.js 304 - - 0.363 ms[39m
+[35m[39m
+2024-05-19 20:28:08:288 [35mhttp[39m: [35m::1 GET /docs/favicon-32x32.png 304 - - 0.553 ms[39m
+[35m[39m
+2024-05-19 20:29:00:290 [35mhttp[39m: [35m::1 GET /docs/ 304 - - 0.794 ms[39m
+[35m[39m
+2024-05-19 20:29:00:290 [35mhttp[39m: [35m::1 GET /docs/swagger-ui.css 304 - - 2.832 ms[39m
+[35m[39m
+2024-05-19 20:29:00:290 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-bundle.js 304 - - 3.330 ms[39m
+[35m[39m
+2024-05-19 20:29:00:290 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-standalone-preset.js 304 - - 0.686 ms[39m
+[35m[39m
+2024-05-19 20:29:00:290 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-init.js 304 - - 0.262 ms[39m
+[35m[39m
+2024-05-19 20:29:00:290 [35mhttp[39m: [35m::1 GET /docs/favicon-32x32.png 304 - - 0.622 ms[39m
+[35m[39m
+2024-05-19 20:29:13:2913 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 20:29:13:2913 [35mhttp[39m: [35m::1 GET /docs/ 304 - - 6.717 ms[39m
+[35m[39m
+2024-05-19 20:29:13:2913 [35mhttp[39m: [35m::1 GET /docs/swagger-ui.css 304 - - 2.663 ms[39m
+[35m[39m
+2024-05-19 20:29:13:2913 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-standalone-preset.js 304 - - 2.513 ms[39m
+[35m[39m
+2024-05-19 20:29:13:2913 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-init.js 200 10340 - 0.501 ms[39m
+[35m[39m
+2024-05-19 20:29:13:2913 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-bundle.js 304 - - 0.392 ms[39m
+[35m[39m
+2024-05-19 20:29:14:2914 [35mhttp[39m: [35m::1 GET /docs/favicon-32x32.png 304 - - 0.849 ms[39m
+[35m[39m
+2024-05-19 20:29:21:2921 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 20:36:27:3627 [35mhttp[39m: [35m::1 GET /docs/ 304 - - 7.162 ms[39m
+[35m[39m
+2024-05-19 20:36:27:3627 [35mhttp[39m: [35m::1 GET /docs/swagger-ui.css 304 - - 2.388 ms[39m
+[35m[39m
+2024-05-19 20:36:27:3627 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-bundle.js 304 - - 1.790 ms[39m
+[35m[39m
+2024-05-19 20:36:27:3627 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-standalone-preset.js 304 - - 3.143 ms[39m
+[35m[39m
+2024-05-19 20:36:27:3627 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-init.js 200 10403 - 0.355 ms[39m
+[35m[39m
+2024-05-19 20:36:27:3627 [35mhttp[39m: [35m::1 GET /docs/favicon-32x32.png 304 - - 1.334 ms[39m
+[35m[39m
+2024-05-19 20:41:16:4116 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 20:41:21:4121 [35mhttp[39m: [35m::1 GET /docs/ 304 - - 7.243 ms[39m
+[35m[39m
+2024-05-19 20:41:21:4121 [35mhttp[39m: [35m::1 GET /docs/swagger-ui.css 304 - - 1.739 ms[39m
+[35m[39m
+2024-05-19 20:41:21:4121 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-standalone-preset.js 304 - - 1.317 ms[39m
+[35m[39m
+2024-05-19 20:41:21:4121 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-init.js 304 - - 0.271 ms[39m
+[35m[39m
+2024-05-19 20:41:21:4121 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-bundle.js 304 - - 3.379 ms[39m
+[35m[39m
+2024-05-19 20:41:21:4121 [35mhttp[39m: [35m::1 GET /docs/favicon-32x32.png 304 - - 0.459 ms[39m
+[35m[39m
+2024-05-19 20:41:57:4157 [35mhttp[39m: [35m::1 GET /docs// 200 3106 - 1.663 ms[39m
+[35m[39m
+2024-05-19 20:41:57:4157 [35mhttp[39m: [35m::1 GET /docs//swagger-ui-init.js 200 10403 - 0.266 ms[39m
+[35m[39m
+2024-05-19 20:41:57:4157 [35mhttp[39m: [35m::1 GET /docs//swagger-ui.css 200 152071 - 6.281 ms[39m
+[35m[39m
+2024-05-19 20:41:57:4157 [35mhttp[39m: [35m::1 GET /docs//swagger-ui-standalone-preset.js 200 230280 - 6.082 ms[39m
+[35m[39m
+2024-05-19 20:41:57:4157 [35mhttp[39m: [35m::1 GET /docs//swagger-ui-bundle.js 200 1456926 - 5.965 ms[39m
+[35m[39m
+2024-05-19 20:41:57:4157 [35mhttp[39m: [35m::1 GET /docs//favicon-32x32.png 200 628 - 0.905 ms[39m
+[35m[39m
+2024-05-19 20:42:00:420 [35mhttp[39m: [35m::1 GET /docs/ 304 - - 0.636 ms[39m
+[35m[39m
+2024-05-19 20:42:00:420 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-init.js 304 - - 0.460 ms[39m
+[35m[39m
+2024-05-19 20:42:00:420 [35mhttp[39m: [35m::1 GET /docs/swagger-ui.css 304 - - 2.370 ms[39m
+[35m[39m
+2024-05-19 20:42:00:420 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-bundle.js 304 - - 2.525 ms[39m
+[35m[39m
+2024-05-19 20:42:00:420 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-standalone-preset.js 304 - - 2.693 ms[39m
+[35m[39m
+2024-05-19 20:44:44:4444 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 20:45:32:4532 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 20:45:34:4534 [35mhttp[39m: [35m::1 GET /docs/ 304 - - 4.616 ms[39m
+[35m[39m
+2024-05-19 20:45:34:4534 [35mhttp[39m: [35m::1 GET /docs/swagger-ui.css 304 - - 2.490 ms[39m
+[35m[39m
+2024-05-19 20:45:34:4534 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-bundle.js 304 - - 2.512 ms[39m
+[35m[39m
+2024-05-19 20:45:34:4534 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-standalone-preset.js 304 - - 0.343 ms[39m
+[35m[39m
+2024-05-19 20:45:34:4534 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-init.js 304 - - 0.306 ms[39m
+[35m[39m
+2024-05-19 20:45:35:4535 [35mhttp[39m: [35m::1 GET /docs/favicon-32x32.png 304 - - 0.457 ms[39m
+[35m[39m
+2024-05-19 20:46:55:4655 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-19 20:46:58:4658 [35mhttp[39m: [35m::1 GET /docs/ 304 - - 4.567 ms[39m
+[35m[39m
+2024-05-19 20:46:58:4658 [35mhttp[39m: [35m::1 GET /docs/swagger-ui.css 304 - - 2.516 ms[39m
+[35m[39m
+2024-05-19 20:46:58:4658 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-bundle.js 304 - - 2.467 ms[39m
+[35m[39m
+2024-05-19 20:46:58:4658 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-standalone-preset.js 304 - - 0.329 ms[39m
+[35m[39m
+2024-05-19 20:46:58:4658 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-init.js 200 10410 - 0.550 ms[39m
+[35m[39m
+2024-05-19 20:46:58:4658 [35mhttp[39m: [35m::1 GET /docs/favicon-32x32.png 304 - - 0.617 ms[39m
+[35m[39m
+2024-05-19 20:47:15:4715 [35mhttp[39m: [35m::1 GET /docs/ 304 - - 0.802 ms[39m
+[35m[39m
+2024-05-19 20:47:15:4715 [35mhttp[39m: [35m::1 GET /docs/swagger-ui.css 304 - - 3.023 ms[39m
+[35m[39m
+2024-05-19 20:47:15:4715 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-bundle.js 304 - - 3.433 ms[39m
+[35m[39m
+2024-05-19 20:47:15:4715 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-standalone-preset.js 304 - - 0.757 ms[39m
+[35m[39m
+2024-05-19 20:47:15:4715 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-init.js 304 - - 0.321 ms[39m
+[35m[39m
+2024-05-19 20:47:15:4715 [35mhttp[39m: [35m::1 GET /docs/favicon-32x32.png 304 - - 0.616 ms[39m
+[35m[39m
+2024-05-20 05:46:58:4658 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-20 05:47:01:471 [35mhttp[39m: [35m::1 GET /docs/ 304 - - 7.734 ms[39m
+[35m[39m
+2024-05-20 05:47:01:471 [35mhttp[39m: [35m::1 GET /docs/swagger-ui.css 304 - - 3.092 ms[39m
+[35m[39m
+2024-05-20 05:47:01:471 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-init.js 200 10403 - 0.469 ms[39m
+[35m[39m
+2024-05-20 05:47:01:471 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-standalone-preset.js 304 - - 1.428 ms[39m
+[35m[39m
+2024-05-20 05:47:01:471 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-bundle.js 200 1456926 - 9.343 ms[39m
+[35m[39m
+2024-05-20 05:48:24:4824 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-20 05:48:25:4825 [35mhttp[39m: [35m::1 GET /docs/ 304 - - 6.803 ms[39m
+[35m[39m
+2024-05-20 05:48:25:4825 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-bundle.js 304 - - 2.528 ms[39m
+[35m[39m
+2024-05-20 05:48:25:4825 [35mhttp[39m: [35m::1 GET /docs/swagger-ui.css 304 - - 2.386 ms[39m
+[35m[39m
+2024-05-20 05:48:25:4825 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-standalone-preset.js 304 - - 0.310 ms[39m
+[35m[39m
+2024-05-20 05:48:25:4825 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-init.js 304 - - 0.347 ms[39m
+[35m[39m
+2024-05-20 05:48:25:4825 [35mhttp[39m: [35m::1 GET /docs/favicon-32x32.png 304 - - 0.662 ms[39m
+[35m[39m
+2024-05-20 05:48:31:4831 [35mhttp[39m: [35m::1 GET /docs/swagger-ui.css 304 - - 0.440 ms[39m
+[35m[39m
+2024-05-20 05:48:31:4831 [35mhttp[39m: [35m::1 GET /docs/swagger-ui.css.map 304 - - 0.731 ms[39m
+[35m[39m
+2024-05-20 05:49:01:491 [35mhttp[39m: [35m::1 POST /auth/refresh 401 26 - 23.900 ms[39m
+[35m[39m
+2024-05-20 05:52:21:5221 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-20 05:53:07:537 [35mhttp[39m: [35m::1 GET /docs/ 304 - - 5.875 ms[39m
+[35m[39m
+2024-05-20 05:53:07:537 [35mhttp[39m: [35m::1 GET /docs/swagger-ui.css 304 - - 2.500 ms[39m
+[35m[39m
+2024-05-20 05:53:07:537 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-standalone-preset.js 304 - - 2.653 ms[39m
+[35m[39m
+2024-05-20 05:53:07:537 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-init.js 304 - - 0.364 ms[39m
+[35m[39m
+2024-05-20 05:53:07:537 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-bundle.js 304 - - 2.415 ms[39m
+[35m[39m
+2024-05-20 05:53:07:537 [35mhttp[39m: [35m::1 GET /docs/favicon-32x32.png 304 - - 0.509 ms[39m
+[35m[39m
+2024-05-20 05:54:46:5446 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-20 05:54:49:5449 [35mhttp[39m: [35m::1 GET /docs/ 304 - - 5.232 ms[39m
+[35m[39m
+2024-05-20 05:54:49:5449 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-init.js 200 10413 - 1.066 ms[39m
+[35m[39m
+2024-05-20 05:54:49:5449 [35mhttp[39m: [35m::1 GET /docs/swagger-ui.css 304 - - 1.621 ms[39m
+[35m[39m
+2024-05-20 05:54:49:5449 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-standalone-preset.js 304 - - 0.671 ms[39m
+[35m[39m
+2024-05-20 05:54:49:5449 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-bundle.js 304 - - 1.571 ms[39m
+[35m[39m
+2024-05-20 05:54:49:5449 [35mhttp[39m: [35m::1 GET /docs/favicon-32x32.png 304 - - 0.495 ms[39m
+[35m[39m
+2024-05-20 05:55:22:5522 [35mhttp[39m: [35m::1 POST /auth/register 200 143 - 638.107 ms[39m
+[35m[39m
+2024-05-20 05:55:34:5534 [35mhttp[39m: [35m::1 POST /auth/login 200 942 - 10.249 ms[39m
+[35m[39m
+2024-05-20 05:56:56:5656 [35mhttp[39m: [35m::1 POST /auth/refresh 401 26 - 12.599 ms[39m
+[35m[39m
+2024-05-20 05:57:13:5713 [35mhttp[39m: [35m::1 POST /auth/refresh 401 26 - 1.554 ms[39m
+[35m[39m
+2024-05-20 05:57:17:5717 [35mhttp[39m: [35m::1 POST /auth/refresh 401 26 - 1.587 ms[39m
+[35m[39m
+2024-05-20 05:58:18:5818 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-20 05:58:26:5826 [35mhttp[39m: [35m::1 GET /docs/ 304 - - 7.849 ms[39m
+[35m[39m
+2024-05-20 05:58:26:5826 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-bundle.js 304 - - 2.575 ms[39m
+[35m[39m
+2024-05-20 05:58:26:5826 [35mhttp[39m: [35m::1 GET /docs/swagger-ui.css 304 - - 2.500 ms[39m
+[35m[39m
+2024-05-20 05:58:26:5826 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-standalone-preset.js 304 - - 0.384 ms[39m
+[35m[39m
+2024-05-20 05:58:26:5826 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-init.js 200 10410 - 0.565 ms[39m
+[35m[39m
+2024-05-20 05:58:26:5826 [35mhttp[39m: [35m::1 GET /docs/favicon-32x32.png 304 - - 0.447 ms[39m
+[35m[39m
+2024-05-20 05:58:29:5829 [35mhttp[39m: [35m::1 GET /docs/ 304 - - 0.741 ms[39m
+[35m[39m
+2024-05-20 05:58:29:5829 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-init.js 304 - - 0.338 ms[39m
+[35m[39m
+2024-05-20 05:58:29:5829 [35mhttp[39m: [35m::1 GET /docs/swagger-ui.css 304 - - 5.630 ms[39m
+[35m[39m
+2024-05-20 05:58:29:5829 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-bundle.js 304 - - 6.224 ms[39m
+[35m[39m
+2024-05-20 05:58:29:5829 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-standalone-preset.js 304 - - 5.479 ms[39m
+[35m[39m
+2024-05-20 05:59:29:5929 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-20 05:59:32:5932 [35mhttp[39m: [35m::1 GET /docs/ 304 - - 4.938 ms[39m
+[35m[39m
+2024-05-20 05:59:32:5932 [35mhttp[39m: [35m::1 GET /docs/swagger-ui.css 304 - - 2.593 ms[39m
+[35m[39m
+2024-05-20 05:59:32:5932 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-bundle.js 304 - - 2.772 ms[39m
+[35m[39m
+2024-05-20 05:59:32:5932 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-standalone-preset.js 304 - - 0.381 ms[39m
+[35m[39m
+2024-05-20 05:59:32:5932 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-init.js 200 10420 - 0.493 ms[39m
+[35m[39m
+2024-05-20 05:59:32:5932 [35mhttp[39m: [35m::1 GET /docs/favicon-32x32.png 304 - - 0.601 ms[39m
+[35m[39m
+2024-05-20 05:59:36:5936 [35mhttp[39m: [35m::1 POST /auth/login 200 942 - 298.115 ms[39m
+[35m[39m
+2024-05-20 06:00:02:02 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-20 06:00:04:04 [35mhttp[39m: [35m::1 POST /auth/refresh 401 26 - 25.476 ms[39m
+[35m[39m
+2024-05-20 06:00:12:012 [35mhttp[39m: [35m::1 POST /auth/refresh 500 35 - 58.360 ms[39m
+[35m[39m
+2024-05-20 06:00:25:025 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-20 06:00:28:028 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-20 06:00:30:030 [35mhttp[39m: [35m::1 POST /auth/refresh 500 35 - 51.113 ms[39m
+[35m[39m
+2024-05-20 18:05:30:530 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-20 18:05:33:533 [35mhttp[39m: [35m::1 GET /docs/ 304 - - 7.093 ms[39m
+[35m[39m
+2024-05-20 18:05:33:533 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-init.js 304 - - 0.331 ms[39m
+[35m[39m
+2024-05-20 18:05:33:533 [35mhttp[39m: [35m::1 GET /docs/swagger-ui.css 200 152071 - 7.123 ms[39m
+[35m[39m
+2024-05-20 18:05:33:533 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-standalone-preset.js 200 230280 - 8.217 ms[39m
+[35m[39m
+2024-05-20 18:05:33:533 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-bundle.js 200 1456926 - 6.784 ms[39m
+[35m[39m
+2024-05-20 18:05:33:533 [35mhttp[39m: [35m::1 GET /docs/favicon-32x32.png 304 - - 1.281 ms[39m
+[35m[39m
+2024-05-20 18:06:40:640 [35mhttp[39m: [35m::1 POST /auth/refresh 401 26 - 24.587 ms[39m
+[35m[39m
+2024-05-20 19:13:44:1344 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-20 19:13:45:1345 [35mhttp[39m: [35m::1 GET /api 404 9 - 4.721 ms[39m
+[35m[39m
+2024-05-20 19:13:47:1347 [35mhttp[39m: [35m::1 GET /api 404 9 - 0.458 ms[39m
+[35m[39m
+2024-05-20 19:13:50:1350 [35mhttp[39m: [35m::1 GET /docs/ 200 3106 - 2.217 ms[39m
+[35m[39m
+2024-05-20 19:13:50:1350 [35mhttp[39m: [35m::1 GET /docs/swagger-ui.css 304 - - 2.015 ms[39m
+[35m[39m
+2024-05-20 19:13:50:1350 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-standalone-preset.js 304 - - 1.392 ms[39m
+[35m[39m
+2024-05-20 19:13:50:1350 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-init.js 304 - - 0.528 ms[39m
+[35m[39m
+2024-05-20 19:13:50:1350 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-bundle.js 200 1456926 - 5.835 ms[39m
+[35m[39m
+2024-05-20 19:14:09:149 [35mhttp[39m: [35m::1 POST /auth/register 409 43 - 1832.750 ms[39m
+[35m[39m
+2024-05-20 19:14:17:1417 [35mhttp[39m: [35m::1 POST /auth/register 400 38 - 4.248 ms[39m
+[35m[39m
+2024-05-20 19:14:30:1430 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-20 19:14:32:1432 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-20 19:14:36:1436 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-20 19:14:38:1438 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-20 19:14:42:1442 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-20 19:14:46:1446 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-20 19:14:46:1446 [35mhttp[39m: [35m::1 POST /auth/register 400 38 - 20.052 ms[39m
+[35m[39m
+2024-05-20 19:14:56:1456 [35mhttp[39m: [35m::1 POST /auth/register 400 38 - 5.479 ms[39m
+[35m[39m
+2024-05-20 19:15:17:1517 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-20 19:15:24:1524 [35mhttp[39m: [35m::1 POST /auth/register 409 43 - 78.023 ms[39m
+[35m[39m
+2024-05-20 19:15:29:1529 [35mhttp[39m: [35m::1 POST /auth/register 200 147 - 17.879 ms[39m
+[35m[39m
+2024-05-20 19:15:44:1544 [35mhttp[39m: [35m::1 POST /auth/register 200 149 - 7.452 ms[39m
+[35m[39m
+2024-05-20 19:15:58:1558 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-20 19:16:08:168 [35mhttp[39m: [35m::1 POST /auth/register 200 151 - 1009.043 ms[39m
+[35m[39m
+2024-05-20 19:17:03:173 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-20 19:17:08:178 [35mhttp[39m: [35m::1 POST /auth/register 200 153 - 52.506 ms[39m
+[35m[39m
+2024-05-20 19:17:33:1733 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-20 19:17:35:1735 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-20 19:17:41:1741 [35mhttp[39m: [35m::1 POST /auth/register 400 44 - 34.478 ms[39m
+[35m[39m
+2024-05-20 19:17:58:1758 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-20 19:18:02:182 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-20 19:18:08:188 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-20 19:18:15:1815 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-20 19:18:16:1816 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-20 19:18:17:1817 [35mhttp[39m: [35m::1 POST /auth/register 400 44 - 27.976 ms[39m
+[35m[39m
+2024-05-20 19:19:04:194 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-20 19:19:13:1913 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-20 19:19:15:1915 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-20 19:19:29:1929 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-20 19:19:32:1932 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-20 19:19:35:1935 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-20 19:19:44:1944 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-20 19:19:47:1947 [35mhttp[39m: [35m::1 POST /auth/register 400 52 - 24.560 ms[39m
+[35m[39m
+2024-05-20 19:19:53:1953 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-20 19:19:53:1953 [35mhttp[39m: [35m::1 POST /auth/register 400 53 - 24.455 ms[39m
+[35m[39m
+2024-05-20 19:20:45:2045 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-20 19:20:50:2050 [35mhttp[39m: [35m::1 POST /auth/register 400 53 - 27.033 ms[39m
+[35m[39m
+2024-05-20 19:57:41:5741 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-20 19:57:43:5743 [35mhttp[39m: [35m::1 GET /docs/ 304 - - 8.419 ms[39m
+[35m[39m
+2024-05-20 19:57:43:5743 [35mhttp[39m: [35m::1 GET /docs/swagger-ui.css 304 - - 2.558 ms[39m
+[35m[39m
+2024-05-20 19:57:43:5743 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-bundle.js 304 - - 2.396 ms[39m
+[35m[39m
+2024-05-20 19:57:43:5743 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-standalone-preset.js 304 - - 0.349 ms[39m
+[35m[39m
+2024-05-20 19:57:43:5743 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-init.js 304 - - 0.276 ms[39m
+[35m[39m
+2024-05-20 19:57:43:5743 [35mhttp[39m: [35m::1 GET /docs/favicon-32x32.png 304 - - 0.408 ms[39m
+[35m[39m
+2024-05-20 20:08:54:854 [35mhttp[39m: [35m::1 GET /docs/ 304 - - 2.090 ms[39m
+[35m[39m
+2024-05-20 20:08:54:854 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-bundle.js 304 - - 2.703 ms[39m
+[35m[39m
+2024-05-20 20:08:54:854 [35mhttp[39m: [35m::1 GET /docs/swagger-ui.css 304 - - 3.054 ms[39m
+[35m[39m
+2024-05-20 20:08:54:854 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-standalone-preset.js 304 - - 0.660 ms[39m
+[35m[39m
+2024-05-20 20:08:54:854 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-init.js 304 - - 0.254 ms[39m
+[35m[39m
+2024-05-20 20:08:54:854 [35mhttp[39m: [35m::1 GET /docs/favicon-32x32.png 304 - - 0.624 ms[39m
+[35m[39m
+2024-05-20 20:19:22:1922 [35mhttp[39m: [35m::1 POST /auth/register 200 171 - 1227.779 ms[39m
+[35m[39m
+2024-05-20 20:19:33:1933 [35mhttp[39m: [35m::1 POST /auth/register 409 43 - 22.547 ms[39m
+[35m[39m
+2024-05-20 20:19:35:1935 [35mhttp[39m: [35m::1 POST /auth/register 409 43 - 17.548 ms[39m
+[35m[39m
+2024-05-20 20:20:11:2011 [35mhttp[39m: [35m::1 POST /auth/register 409 43 - 5.269 ms[39m
+[35m[39m
+2024-05-20 20:20:16:2016 [35mhttp[39m: [35m::1 POST /auth/register 200 156 - 7.946 ms[39m
+[35m[39m
+2024-05-20 20:25:47:2547 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-20 20:27:34:2734 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-21 05:28:18:2818 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-21 05:28:25:2825 [35mhttp[39m: [35m::1 GET /docs/ 304 - - 4.808 ms[39m
+[35m[39m
+2024-05-21 05:28:25:2825 [35mhttp[39m: [35m::1 GET /docs/swagger-ui.css 304 - - 2.638 ms[39m
+[35m[39m
+2024-05-21 05:28:25:2825 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-init.js 304 - - 0.431 ms[39m
+[35m[39m
+2024-05-21 05:28:25:2825 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-standalone-preset.js 304 - - 5.598 ms[39m
+[35m[39m
+2024-05-21 05:28:25:2825 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-bundle.js 200 1456926 - 6.833 ms[39m
+[35m[39m
+2024-05-21 17:42:48:4248 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-21 17:43:22:4322 [35mhttp[39m: [35m::1 GET /docs/ 304 - - 6.001 ms[39m
+[35m[39m
+2024-05-21 17:43:23:4323 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-init.js 200 10420 - 0.403 ms[39m
+[35m[39m
+2024-05-21 17:43:23:4323 [35mhttp[39m: [35m::1 GET /docs/swagger-ui.css 200 152071 - 5.334 ms[39m
+[35m[39m
+2024-05-21 17:43:23:4323 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-standalone-preset.js 200 230280 - 11.156 ms[39m
+[35m[39m
+2024-05-21 17:43:23:4323 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-bundle.js 200 1456926 - 5.390 ms[39m
+[35m[39m
+2024-05-21 17:43:23:4323 [35mhttp[39m: [35m::1 GET /docs/favicon-32x32.png 304 - - 0.960 ms[39m
+[35m[39m
+2024-05-22 06:05:08:58 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-22 06:05:13:513 [35mhttp[39m: [35m::1 GET /docs/ 304 - - 4.406 ms[39m
+[35m[39m
+2024-05-22 06:05:13:513 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-init.js 304 - - 0.355 ms[39m
+[35m[39m
+2024-05-22 06:05:13:513 [35mhttp[39m: [35m::1 GET /docs/swagger-ui.css 304 - - 5.731 ms[39m
+[35m[39m
+2024-05-22 06:05:13:513 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-standalone-preset.js 200 230280 - 5.837 ms[39m
+[35m[39m
+2024-05-22 06:05:13:513 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-bundle.js 200 1456926 - 6.054 ms[39m
+[35m[39m
+2024-05-22 06:05:53:553 [35mhttp[39m: [35m::1 POST /auth/register 200 145 - 1267.421 ms[39m
+[35m[39m
+2024-05-22 06:06:07:67 [35mhttp[39m: [35m::1 POST /auth/login 200 948 - 11.483 ms[39m
+[35m[39m
+2024-05-22 06:06:13:613 [35mhttp[39m: [35m::1 POST /auth/refresh 401 26 - 13.612 ms[39m
+[35m[39m
+2024-05-22 06:06:40:640 [35mhttp[39m: [35m::1 POST /auth/refresh 500 35 - 10.477 ms[39m
+[35m[39m
+2024-05-22 06:07:15:715 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-22 06:07:20:720 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-22 06:07:21:721 [35mhttp[39m: [35m::1 POST /auth/refresh 500 35 - 38.346 ms[39m
+[35m[39m
+2024-05-22 06:07:34:734 [35mhttp[39m: [35m::1 POST /auth/refresh 401 26 - 9.408 ms[39m
+[35m[39m
+2024-05-22 06:07:46:746 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-22 06:07:58:758 [35mhttp[39m: [35m::1 POST /auth/refresh 500 35 - 1041.324 ms[39m
+[35m[39m
+2024-05-22 07:11:18:1118 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-22 07:11:21:1121 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-23 18:24:21:2421 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-23 18:25:15:2515 [35mhttp[39m: [35m::1 GET /docs/ 304 - - 4.653 ms[39m
+[35m[39m
+2024-05-23 18:25:15:2515 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-init.js 200 10406 - 0.527 ms[39m
+[35m[39m
+2024-05-23 18:25:15:2515 [35mhttp[39m: [35m::1 GET /docs/swagger-ui.css 200 152071 - 9.216 ms[39m
+[35m[39m
+2024-05-23 18:25:15:2515 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-standalone-preset.js 200 230280 - 9.057 ms[39m
+[35m[39m
+2024-05-23 18:25:15:2515 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-bundle.js 200 1456926 - 8.572 ms[39m
+[35m[39m
+2024-05-23 18:25:15:2515 [35mhttp[39m: [35m::1 GET /docs/favicon-32x32.png 304 - - 1.200 ms[39m
+[35m[39m
+2024-05-23 18:25:22:2522 [35mhttp[39m: [35m::1 GET /docs/ 304 - - 0.632 ms[39m
+[35m[39m
+2024-05-23 18:25:22:2522 [35mhttp[39m: [35m::1 GET /docs/swagger-ui.css 304 - - 2.966 ms[39m
+[35m[39m
+2024-05-23 18:25:22:2522 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-bundle.js 304 - - 3.231 ms[39m
+[35m[39m
+2024-05-23 18:25:22:2522 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-init.js 304 - - 0.306 ms[39m
+[35m[39m
+2024-05-23 18:25:22:2522 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-standalone-preset.js 304 - - 0.609 ms[39m
+[35m[39m
+2024-05-23 18:25:22:2522 [35mhttp[39m: [35m::1 GET /docs/favicon-32x32.png 304 - - 0.537 ms[39m
+[35m[39m
+2024-05-23 18:26:17:2617 [35mhttp[39m: [35m::1 GET /docs/ 304 - - 0.693 ms[39m
+[35m[39m
+2024-05-23 18:26:17:2617 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-init.js 304 - - 0.544 ms[39m
+[35m[39m
+2024-05-23 18:26:17:2617 [35mhttp[39m: [35m::1 GET /docs/swagger-ui.css 304 - - 2.206 ms[39m
+[35m[39m
+2024-05-23 18:26:17:2617 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-bundle.js 304 - - 0.688 ms[39m
+[35m[39m
+2024-05-23 18:26:17:2617 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-standalone-preset.js 304 - - 0.927 ms[39m
+[35m[39m
+2024-05-23 18:26:17:2617 [35mhttp[39m: [35m::1 GET /docs/favicon-32x32.png 304 - - 0.600 ms[39m
+[35m[39m
+2024-05-23 18:26:22:2622 [35mhttp[39m: [35m::1 GET /docs/ 304 - - 0.607 ms[39m
+[35m[39m
+2024-05-23 18:26:22:2622 [35mhttp[39m: [35m::1 GET /docs/swagger-ui.css 304 - - 0.441 ms[39m
+[35m[39m
+2024-05-23 18:26:22:2622 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-init.js 304 - - 0.734 ms[39m
+[35m[39m
+2024-05-23 18:26:22:2622 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-bundle.js 304 - - 2.815 ms[39m
+[35m[39m
+2024-05-23 18:26:22:2622 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-standalone-preset.js 304 - - 0.721 ms[39m
+[35m[39m
+2024-05-23 18:26:22:2622 [35mhttp[39m: [35m::1 GET /docs/favicon-32x32.png 304 - - 0.540 ms[39m
+[35m[39m
+2024-05-23 18:27:53:2753 [35mhttp[39m: [35m::1 GET /docs/ 304 - - 0.830 ms[39m
+[35m[39m
+2024-05-23 18:27:53:2753 [35mhttp[39m: [35m::1 GET /docs/swagger-ui.css 304 - - 0.843 ms[39m
+[35m[39m
+2024-05-23 18:27:53:2753 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-bundle.js 304 - - 0.969 ms[39m
+[35m[39m
+2024-05-23 18:27:53:2753 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-standalone-preset.js 304 - - 0.361 ms[39m
+[35m[39m
+2024-05-23 18:27:53:2753 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-init.js 304 - - 0.344 ms[39m
+[35m[39m
+2024-05-23 18:27:54:2754 [35mhttp[39m: [35m::1 GET /docs/favicon-32x32.png 304 - - 0.613 ms[39m
+[35m[39m
+2024-05-23 18:28:00:280 [35mhttp[39m: [35m::1 GET /docs/ 304 - - 0.841 ms[39m
+[35m[39m
+2024-05-23 18:28:00:280 [35mhttp[39m: [35m::1 GET /docs/swagger-ui.css 304 - - 0.743 ms[39m
+[35m[39m
+2024-05-23 18:28:00:280 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-bundle.js 304 - - 1.142 ms[39m
+[35m[39m
+2024-05-23 18:28:00:280 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-init.js 304 - - 0.291 ms[39m
+[35m[39m
+2024-05-23 18:28:00:280 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-standalone-preset.js 304 - - 1.229 ms[39m
+[35m[39m
+2024-05-23 18:28:00:280 [35mhttp[39m: [35m::1 GET /docs/favicon-32x32.png 304 - - 0.414 ms[39m
+[35m[39m
+2024-05-23 18:29:09:299 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-23 18:29:23:2923 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-23 18:29:41:2941 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-23 18:29:48:2948 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-23 18:30:12:3012 [35mhttp[39m: [35m::1 GET /docs/ 304 - - 5.733 ms[39m
+[35m[39m
+2024-05-23 18:30:12:3012 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-bundle.js 304 - - 2.550 ms[39m
+[35m[39m
+2024-05-23 18:30:12:3012 [35mhttp[39m: [35m::1 GET /docs/swagger-ui.css 304 - - 2.555 ms[39m
+[35m[39m
+2024-05-23 18:30:12:3012 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-standalone-preset.js 304 - - 0.393 ms[39m
+[35m[39m
+2024-05-23 18:30:12:3012 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-init.js 200 10446 - 0.709 ms[39m
+[35m[39m
+2024-05-23 18:30:12:3012 [35mhttp[39m: [35m::1 GET /docs/favicon-32x32.png 304 - - 0.496 ms[39m
+[35m[39m
+2024-05-23 18:30:19:3019 [35mhttp[39m: [35m::1 GET /docs/ 304 - - 0.638 ms[39m
+[35m[39m
+2024-05-23 18:30:19:3019 [35mhttp[39m: [35m::1 GET /docs/swagger-ui.css 304 - - 3.202 ms[39m
+[35m[39m
+2024-05-23 18:30:19:3019 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-bundle.js 304 - - 3.283 ms[39m
+[35m[39m
+2024-05-23 18:30:19:3019 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-standalone-preset.js 304 - - 0.661 ms[39m
+[35m[39m
+2024-05-23 18:30:19:3019 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-init.js 304 - - 0.272 ms[39m
+[35m[39m
+2024-05-23 18:30:19:3019 [35mhttp[39m: [35m::1 GET /docs/favicon-32x32.png 304 - - 0.672 ms[39m
+[35m[39m
+2024-05-23 18:34:31:3431 [35mhttp[39m: [35m::1 GET /docs/ 304 - - 0.605 ms[39m
+[35m[39m
+2024-05-23 18:34:31:3431 [35mhttp[39m: [35m::1 GET /docs/swagger-ui.css 304 - - 2.062 ms[39m
+[35m[39m
+2024-05-23 18:34:31:3431 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-bundle.js 304 - - 1.773 ms[39m
+[35m[39m
+2024-05-23 18:34:31:3431 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-standalone-preset.js 304 - - 0.549 ms[39m
+[35m[39m
+2024-05-23 18:34:31:3431 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-init.js 304 - - 0.488 ms[39m
+[35m[39m
+2024-05-23 18:34:31:3431 [35mhttp[39m: [35m::1 GET /docs/favicon-32x32.png 304 - - 0.469 ms[39m
+[35m[39m
+2024-05-23 18:34:36:3436 [35mhttp[39m: [35m::1 GET /docs/ 304 - - 0.611 ms[39m
+[35m[39m
+2024-05-23 18:34:36:3436 [35mhttp[39m: [35m::1 GET /docs/swagger-ui.css 304 - - 0.963 ms[39m
+[35m[39m
+2024-05-23 18:34:36:3436 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-bundle.js 304 - - 1.207 ms[39m
+[35m[39m
+2024-05-23 18:34:36:3436 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-init.js 304 - - 0.462 ms[39m
+[35m[39m
+2024-05-23 18:34:36:3436 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-standalone-preset.js 304 - - 1.513 ms[39m
+[35m[39m
+2024-05-23 18:34:36:3436 [35mhttp[39m: [35m::1 GET /docs/favicon-32x32.png 304 - - 0.509 ms[39m
+[35m[39m
+2024-05-23 19:18:04:184 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-23 19:18:17:1817 [35mhttp[39m: [35m::1 GET /docs/ 304 - - 5.808 ms[39m
+[35m[39m
+2024-05-23 19:18:17:1817 [35mhttp[39m: [35m::1 GET /docs/swagger-ui.css 304 - - 2.949 ms[39m
+[35m[39m
+2024-05-23 19:18:17:1817 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-standalone-preset.js 304 - - 1.786 ms[39m
+[35m[39m
+2024-05-23 19:18:17:1817 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-init.js 200 10500 - 0.423 ms[39m
+[35m[39m
+2024-05-23 19:18:17:1817 [35mhttp[39m: [35m::1 GET /docs/swagger-ui-bundle.js 200 1456926 - 7.434 ms[39m
+[35m[39m
+2024-05-23 19:18:33:1833 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-23 19:18:35:1835 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-23 19:19:03:193 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-23 19:19:06:196 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-23 19:19:11:1911 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-23 19:19:15:1915 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-23 19:19:17:1917 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-23 19:19:52:1952 [35mhttp[39m: [35m::1 POST /auth/register 200 145 - 3237.692 ms[39m
+[35m[39m
+2024-05-23 19:21:02:212 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-23 19:21:06:216 [35mhttp[39m: [35mPOST /auth/register 409 43 - 42.164 ms[39m
+[35m[39m
+2024-05-23 19:21:27:2127 [35mhttp[39m: [35mPOST /auth/register 409 43 - 8.490 ms[39m
+[35m[39m
+2024-05-23 19:21:44:2144 [35mhttp[39m: [35mPOST /auth/register 409 43 - 4.817 ms[39m
+[35m[39m
+2024-05-23 19:22:39:2239 : [32mServer is running on port 9000[39m
+2024-05-23 19:22:45:2245 : [35mPOST /auth/register 409 43 - 55.564 ms[39m
+[35m[39m
+ : [32mServer is running on port 9000[39m
+2024-05-23 19:22:58:2258 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-23 19:24:40:2440 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-23 19:24:44:2444 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-23 19:24:59:2459 [32minfo[39m: [32mServer is running on port 9000[39m
+2024-05-23 19:25:07:257 [32minfo[39m: [32mServer is running on port 9000[39m
